@@ -1,2 +1,2 @@
-# Python-Applied-Programming-
+# Python-Applied-Programming
 Applied Programming 
